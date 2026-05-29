@@ -1,2 +1,3 @@
-hello im explodingkat / Exploding cat i know 
-<img width="834" height="513" alt="17800546319403595424471487355690" src="https://github.com/user-attachments/assets/26fc0446-6c66-489a-b504-3f5956522cdc" />
+hello im explodingkat / Exploding cat i know <img width="225" height="225" alt="17800548530216838795929274581325" src="https://github.com/user-attachments/assets/98025f71-52d1-46f6-b367-1d4c4c9a6b3e" /><img width="920" height="584" alt="17800548994226026607668794208354" src="https://github.com/user-attachments/assets/24616a4c-b314-46b2-9dba-7967c9034c2b" />
+
+
